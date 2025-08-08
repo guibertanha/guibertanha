@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme 👋
 
-<!--
-**guibertanha/guibertanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia Mecatrônica na UFU e atual presidente da equipe de robótica [EDROM](https://github.com/edromufu). Atuo na liderança estratégica da equipe, gestão financeira e captação de recursos, enquanto desenvolvo minhas competências técnicas para uma carreira em robótica.
 
-Here are some ideas to get you started:
+### 🎯 Foco Atual
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Liderando a reestruturação organizacional e o fundraising da EDROM para a competição de Outubro.
+
+Seguindo um plano de estudos focado em C++, Python e ROS para minha aplicação de Iniciação Científica.
+
+Buscando ativamente uma oportunidade de IC ou estágio.
+
+### 🛠️ Tecnologias e Ferramentas
+
+A desenvolver: C++, Python, ROS, Docker, Eletrônica Embarcada.
+
+Já utilizei: Planejamento de Projetos, Orçamentos, Git/GitHub.
+
+### 📫 Como me encontrar
+
+[LinkedIn](www.linkedin.com/in/guilhermebertanhaconstante)
+
+[E-mail](guilhermebertanha0@ufu.br)
