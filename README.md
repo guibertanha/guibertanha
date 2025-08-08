@@ -18,6 +18,6 @@ Já utilizei: Planejamento de Projetos, Orçamentos, Git/GitHub.
 
 ### 📫 Como me encontrar
 
-[LinkedIn](www.linkedin.com/in/guilhermebertanhaconstante)
+LinkedIn: www.linkedin.com/in/guilhermebertanhaconstante
 
-[E-mail](guilhermebertanha0@ufu.br)
+E-mail: guilhermebertanha0@ufu.br
