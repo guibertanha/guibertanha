@@ -62,7 +62,7 @@ Trajetória  ──────────────────────�
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| **estagio-terasite** *(privado)* | Firmware de validação RF para gateway IoT industrial — state machine embarcada, 5 perfis de teste, painel web PROGMEM, parser Python com relatório HTML | `C++` `Python` `ESP32` `FreeRTOS` |
+| [**estagio-terasite**](https://github.com/guibertanha/estagio-terasite) | Firmware de validação RF para gateway IoT industrial — state machine embarcada, 5 perfis de teste, painel web PROGMEM, parser Python com relatório HTML | `C++` `Python` `ESP32` `FreeRTOS` |
 | [**data-science-study**](https://github.com/guibertanha/data-science-study) | Pipeline de Data Science do zero: limpeza de dados, EDA e modelos de regressão preditiva | `Python` `Pandas` `Scikit-Learn` |
 | **EDROM — Áurea** *(org. privada)* | Robô humanoide de futebol — telemetria, seleção de servos, integração de sensores | `C` `ROS` `SolidWorks` |
 
