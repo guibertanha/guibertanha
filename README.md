@@ -1,92 +1,73 @@
 <div align="center">
 
-<h1>Guilherme Bertanha</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Engenharia+Mecatr%C3%B4nica+%E2%80%94+UFU;Presidente+da+EDROM+%F0%9F%A6%BE;P%26D+em+Sistemas+Embarcados+%26+IoT;Agentes+de+IA+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG"/>
 
-<p>
-  <strong>Eng. Mecatrônica · UFU</strong> &nbsp;·&nbsp;
-  <strong>Presidente · EDROM</strong> &nbsp;·&nbsp;
-  <strong>P&D · Terasite Tecnologia</strong>
-</p>
+<br/>
 
-<a href="https://www.linkedin.com/in/guilhermebertanhaconstante/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:guilhermebertanha0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=guibertanha&color=58a6ff&style=flat-square&label=visitas" alt="visitas"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebertanhaconstante/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebertanha0@gmail.com)
+[![UFU](https://img.shields.io/badge/UFU-Uberlândia_·_MG-004A8F?style=for-the-badge)](https://www.ufu.br)
 
 </div>
 
 ---
 
-## 🤖 Sobre mim
+## Sobre mim
 
-Estudante de **Engenharia Mecatrônica** na **Universidade Federal de Uberlândia (UFU)**, com foco em sistemas embarcados, robótica de alto desempenho e inteligência artificial aplicada.
+Estudante de **Eng. Mecatrônica na UFU**, construindo na intersecção de **hardware, firmware e inteligência artificial**. Meu trabalho vai da bancada de testes de RF ao campo com maquinário pesado — sempre com firmware escrito do zero.
 
-- 🦾 **Presidente da [EDROM](https://edrom.com.br)** — Equipe de Desenvolvimento em Robótica Móvel da UFU. Coordeno o desenvolvimento do robô humanoide **Áurea**, com atuação em telemetria, servos e competições nacionais (CBR 2024).
-- 🔬 **P&D na Terasite Tecnologia** — firmware C++ do zero para gateway IoT Frotall (ESP32 + LTE): validação de antenas Wi-Fi externas, state machine embarcada, instrumentação RF em campo.
-- 🧠 **Agentes de IA** — crio agentes autônomos e *study coaches* customizados para automação de tarefas e aprendizado personalizado.
+```text
+Trajetória  ──────────────────────────────────────────────────────────────
+  UFU            Eng. Mecatrônica — sistemas, controle, robótica
+  EDROM          Presidente — robô humanoide Áurea · CBR 2024
+  Terasite       P&D — firmware IoT para gateway industrial (ESP32 + LTE)
+```
 
-📍 Uberlândia · MG · Brasil &nbsp;|&nbsp; Aberto a colaborações em embarcados, robótica e IA
+- 🦾 **[EDROM](https://github.com/edromufu)** — lidero equipe multidisciplinar de robótica humanoide. Atuação técnica em telemetria, seleção de servos e integração de sensores no robô **Áurea** (futebol de robôs, CBR 2024).
+- 🔬 **Terasite Tecnologia** — desenvolvimento de firmware embarcado para o gateway Frotall FRITG01LTE: state machine, perfis de teste RF (BURN/WALK/CLOCK), painel web HTML servido do flash, validação de antenas Wi-Fi externas em campo.
+- 🤖 **Agentes de IA** — crio agentes autônomos e *study coaches* customizados para automação de tarefas e aprendizado personalizado.
 
 ---
 
-## ⚡ Stack
+## Stack
 
-**Sistemas Embarcados & IoT**
+**Embarcados & IoT**
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003D4C?style=for-the-badge&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003D4C?style=flat-square&logoColor=white)
 
 **Software & Análise**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**IA & Automação**
+
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **CAD & Engenharia**
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-EF1B24?style=for-the-badge&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-EF1B24?style=flat-square&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guibertanha&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibertanha&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=guibertanha&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🦾 Projetos em destaque
+## Projetos
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [estagio-terasite](https://github.com/guibertanha/estagio-terasite) | Firmware de validação RF para gateway IoT — state machine, BURN/CLOCK/WALK, relatório HTML | C++ · Python · ESP32 |
-| EDROM — Áurea | Robô humanoide de futebol — telemetria, seleção de servos, integração de sensores | C · ROS · SolidWorks |
+| **estagio-terasite** *(privado)* | Firmware de validação RF para gateway IoT industrial — state machine embarcada, 5 perfis de teste, painel web PROGMEM, parser Python com relatório HTML | `C++` `Python` `ESP32` `FreeRTOS` |
+| [**data-science-study**](https://github.com/guibertanha/data-science-study) | Pipeline de Data Science do zero: limpeza de dados, EDA e modelos de regressão preditiva | `Python` `Pandas` `Scikit-Learn` |
+| **EDROM — Áurea** *(org. privada)* | Robô humanoide de futebol — telemetria, seleção de servos, integração de sensores | `C` `ROS` `SolidWorks` |
 
 ---
 
 <div align="center">
-<sub>
-  <a href="https://www.linkedin.com/in/guilhermebertanhaconstante/">LinkedIn</a> &nbsp;·&nbsp;
-  guilhermebertanha0@gmail.com
-</sub>
+<sub>Uberlândia · MG · Brasil &nbsp;—&nbsp; Aberto a colaborações em embarcados, robótica e IA</sub>
 </div>
