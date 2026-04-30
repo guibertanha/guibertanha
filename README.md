@@ -19,11 +19,11 @@ Estudante de **Eng. Mecatrônica na UFU**, construindo na intersecção de **har
 ```text
 Trajetória  ──────────────────────────────────────────────────────────────
   UFU            Eng. Mecatrônica — sistemas, controle, robótica
-  EDROM          Presidente — robô humanoide Áurea · CBR 2024
+  EDROM          Presidente — robô humanoide Áurea · CBR 2025
   Terasite       P&D — firmware IoT para gateway industrial (ESP32 + LTE)
 ```
 
-- 🦾 **[EDROM](https://github.com/edromufu)** — lidero equipe multidisciplinar de robótica humanoide. Atuação técnica em telemetria, seleção de servos e integração de sensores no robô **Áurea** (futebol de robôs, CBR 2024).
+- 🦾 **[EDROM](https://github.com/edromufu)** — lidero equipe multidisciplinar de robótica humanoide. Atuação técnica em telemetria, seleção de servos e integração de sensores no robô **Áurea** (futebol de robôs, CBR 2025).
 - 🔬 **Terasite Tecnologia** — P&D de firmware embarcado para gateway IoT industrial: state machine, perfis de teste RF com coleta de dados em campo, painel web PROGMEM, pipeline de análise Python com score composto e relatório HTML.
 - 🤖 **Agentes de IA** — crio agentes autônomos e ferramentas de automação usando Claude API e OpenAI para análise de dados, geração de relatórios e aprendizado personalizado.
 
@@ -72,7 +72,7 @@ Trajetória  ──────────────────────�
 | [**estagio-terasite**](https://github.com/guibertanha/estagio-terasite) | Firmware de validação RF para gateway IoT industrial — state machine embarcada, perfis de teste BURN/WALK/CLOCK, coleta de dados em campo real, pipeline de análise com score composto e relatório HTML interativo | `C++` `Python` `ESP32` `FreeRTOS` |
 | [**firmware-e-poeira**](https://github.com/guibertanha/firmware-e-poeira) | Jogo browser de simulação com mecânicas de atributos, múltiplos finais e transições de cena — construído com React 19, Zustand e Framer Motion | `TypeScript` `React` `Tailwind` `Zustand` |
 | [**data-science-study**](https://github.com/guibertanha/data-science-study) | Pipeline de Data Science do zero: limpeza de dados, EDA e modelos de regressão preditiva | `Python` `Pandas` `Scikit-Learn` |
-| **EDROM — Áurea** *(org. privada)* | Robô humanoide de futebol — telemetria, seleção de servos, integração de sensores | `C` `ROS` `SolidWorks` |
+| [**EDROM — Áurea**](https://github.com/edromufu) | Robô humanoide de futebol — telemetria, seleção de servos, integração de sensores | `C` `ROS` `SolidWorks` |
 
 ---
 
