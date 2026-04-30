@@ -23,7 +23,7 @@ Trajetória  ──────────────────────�
   Terasite       P&D — firmware IoT para gateway industrial (ESP32 + LTE)
 ```
 
-- 🦾 **[EDROM](https://github.com/edromufu)** — lidero equipe multidisciplinar de robótica humanoide. Atuação técnica em telemetria, seleção de servos e integração de sensores no robô **Áurea** (futebol de robôs, CBR 2025).
+- 🦾 **[EDROM](https://github.com/edromufu)** — lidero equipe multidisciplinar de robótica humanoide da UFU. Stack: ROS2 Humble, Python, Webots (simulação), Docker. Atuação técnica em controle de servos, visão computacional e integração de sensores no robô **Áurea** (futebol de robôs humanoide — LARC/CBR 2025).
 - 🔬 **Terasite Tecnologia** — P&D de firmware embarcado para gateway IoT industrial: state machine, perfis de teste RF com coleta de dados em campo, painel web PROGMEM, pipeline de análise Python com score composto e relatório HTML.
 - 🤖 **Agentes de IA** — crio agentes autônomos e ferramentas de automação usando Claude API e OpenAI para análise de dados, geração de relatórios e aprendizado personalizado.
 
@@ -59,6 +59,12 @@ Trajetória  ──────────────────────�
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
+**Robótica**
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Webots](https://img.shields.io/badge/Webots-E84040?style=flat-square&logoColor=white)
+
 **CAD & Engenharia**
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-EF1B24?style=flat-square&logoColor=white)
@@ -72,7 +78,7 @@ Trajetória  ──────────────────────�
 | [**estagio-terasite**](https://github.com/guibertanha/estagio-terasite) | Firmware de validação RF para gateway IoT industrial — state machine embarcada, perfis de teste BURN/WALK/CLOCK, coleta de dados em campo real, pipeline de análise com score composto e relatório HTML interativo | `C++` `Python` `ESP32` `FreeRTOS` |
 | [**firmware-e-poeira**](https://github.com/guibertanha/firmware-e-poeira) | Jogo browser de simulação com mecânicas de atributos, múltiplos finais e transições de cena — construído com React 19, Zustand e Framer Motion | `TypeScript` `React` `Tailwind` `Zustand` |
 | [**data-science-study**](https://github.com/guibertanha/data-science-study) | Pipeline de Data Science do zero: limpeza de dados, EDA e modelos de regressão preditiva | `Python` `Pandas` `Scikit-Learn` |
-| [**EDROM — Áurea**](https://github.com/edromufu) | Robô humanoide de futebol — telemetria, seleção de servos, integração de sensores | `C` `ROS` `SolidWorks` |
+| [**EDROM — Áurea**](https://github.com/edromufu) | Robô humanoide de futebol — controle de servos, visão computacional, simulação Webots | `Python` `ROS2` `Docker` `Webots` |
 
 ---
 
